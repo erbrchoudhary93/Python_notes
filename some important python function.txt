@@ -1,0 +1,3 @@
+strip() -- Remove spaces at the beginning and at the end of the string
+Recursin --In programming, recursion is a technique using a function or an algorithm that calls itself one or           more times until a particular condition is met. 
+https://pythonistaplanet.com/python-while-loop-examples/--problems
