@@ -1,0 +1,8 @@
+Types of datatypes------
+1.  str()  ----"hello wrold"
+2.  int()  ----45
+3.  float()----decibal values --630.255  
+#-- type()--- determine the types of variable
+#-- typecast or switch in any function use-- str(),int(),float()
+#-- userinput--- use input() function
+#-- Input() is always string

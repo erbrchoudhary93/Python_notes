@@ -1,0 +1,10 @@
+#  Install any module in python - pip install (desired module) ex Flask pandas- external module
+   >- Import any module we use "import" command
+#  Built-in-module - Do not requir install (Get this - python built-in-module)
+     pip-- pacakage manager of python
+#  Comment in python - "#"---- Single line comment
+                     ---   """    """  --- Multiline comment
+#  Print in same line with two different line---- end=" "
+#  \n --- new line   \t ---- new tab
+ 
+  

@@ -1,0 +1,20 @@
+Types of operator---
+Methimatical operator--
++,-,*,/---**--expotation operator
+a%b-- reminder
+Assignment operator--
+=,+=,
+Comperision operator--
+==,>=,<=,!=-- not equls to
+Logical operator
+and--both true
+or--any one true
+
+Identity operator
+is, is not,
+
+Membership operator
+in ,not in
+
+Bitwise operator
+and , or , not

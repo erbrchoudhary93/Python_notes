@@ -1,0 +1,7 @@
+"r"--open file for reading
+"w"--open file fpr written
+"x"--create file if not exist
+"a"-- add more content to a file
+"t"--text mode
+"b"--binary mode
+"r+"--read  and write

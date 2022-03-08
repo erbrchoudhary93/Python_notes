@@ -1,0 +1,10 @@
+String slicing--
+#-- Print a particular string-- print(str[0:5])
+     ----- particular word -- print(str[1])
+find the length of any string--- use len()  function
+#--print(mystr[a:b:c] where a= starting point
+                            b= ending point
+                            c = gap between words
+Negative index :-
+                    print(mystr[: :-1])--reverce string  
+                                          

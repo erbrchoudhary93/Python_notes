@@ -1,0 +1,5 @@
+for loop --- for i in list1(any thing u want to enter loop)
+while (condition of i )--   i is variable
+while True(1):----  Non breakable loop
+break --- break the loop and quit loop
+continue--- re enter in the loop
